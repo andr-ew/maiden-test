@@ -1,0 +1,3 @@
+[submodule "lib/maiden-test-submodule"]
+	path = lib/maiden-test-submodule
+	url = https://github.com/andr-ew/maiden-test-submodule
